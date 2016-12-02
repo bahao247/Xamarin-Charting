@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShinobiStockChart.Core", "ShinobiStockChart.Core\ShinobiStockChart.Core.csproj", "{240E93ED-94CB-4447-BBA4-282A1B490D3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShinobiStockChart.Droid", "ShinobiStockChart.Droid\ShinobiStockChart.Droid.csproj", "{FC32A77F-873F-43CA-B2F2-25894C502A24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShinobiStockChart.Touch", "ShinobiStockChart.Touch\ShinobiStockChart.Touch.csproj", "{498858AE-8BB6-4746-B083-9A4330765E13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{240E93ED-94CB-4447-BBA4-282A1B490D3E}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{240E93ED-94CB-4447-BBA4-282A1B490D3E}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{240E93ED-94CB-4447-BBA4-282A1B490D3E}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{240E93ED-94CB-4447-BBA4-282A1B490D3E}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{240E93ED-94CB-4447-BBA4-282A1B490D3E}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{240E93ED-94CB-4447-BBA4-282A1B490D3E}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{240E93ED-94CB-4447-BBA4-282A1B490D3E}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{240E93ED-94CB-4447-BBA4-282A1B490D3E}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{240E93ED-94CB-4447-BBA4-282A1B490D3E}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{240E93ED-94CB-4447-BBA4-282A1B490D3E}.Release|iPhone.Build.0 = Release|Any CPU
+		{240E93ED-94CB-4447-BBA4-282A1B490D3E}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{240E93ED-94CB-4447-BBA4-282A1B490D3E}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{498858AE-8BB6-4746-B083-9A4330765E13}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{498858AE-8BB6-4746-B083-9A4330765E13}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{498858AE-8BB6-4746-B083-9A4330765E13}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{498858AE-8BB6-4746-B083-9A4330765E13}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{498858AE-8BB6-4746-B083-9A4330765E13}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{498858AE-8BB6-4746-B083-9A4330765E13}.Debug|iPhone.Build.0 = Debug|iPhone
+		{498858AE-8BB6-4746-B083-9A4330765E13}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{498858AE-8BB6-4746-B083-9A4330765E13}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{498858AE-8BB6-4746-B083-9A4330765E13}.Release|iPhone.ActiveCfg = Release|iPhone
+		{498858AE-8BB6-4746-B083-9A4330765E13}.Release|iPhone.Build.0 = Release|iPhone
+		{498858AE-8BB6-4746-B083-9A4330765E13}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{498858AE-8BB6-4746-B083-9A4330765E13}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{FC32A77F-873F-43CA-B2F2-25894C502A24}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{FC32A77F-873F-43CA-B2F2-25894C502A24}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{FC32A77F-873F-43CA-B2F2-25894C502A24}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{FC32A77F-873F-43CA-B2F2-25894C502A24}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{FC32A77F-873F-43CA-B2F2-25894C502A24}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{FC32A77F-873F-43CA-B2F2-25894C502A24}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{FC32A77F-873F-43CA-B2F2-25894C502A24}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{FC32A77F-873F-43CA-B2F2-25894C502A24}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{FC32A77F-873F-43CA-B2F2-25894C502A24}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{FC32A77F-873F-43CA-B2F2-25894C502A24}.Release|iPhone.Build.0 = Release|Any CPU
+		{FC32A77F-873F-43CA-B2F2-25894C502A24}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{FC32A77F-873F-43CA-B2F2-25894C502A24}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ShinobiStockChart.Touch\ShinobiStockChart.Touch.csproj
+	EndGlobalSection
+EndGlobal
